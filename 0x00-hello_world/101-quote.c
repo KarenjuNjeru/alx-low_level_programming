@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
- * main - printing without printf and put
+ * main - printing without Printf and Put
  *
  * return: always (1)
  *
