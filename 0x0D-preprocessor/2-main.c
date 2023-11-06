@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- *return file name
- *file name
+ * main - return file name
+ * Return: file name
  */
-
 int main(void)
 {
 	printf(_FILE_);
 	printf("\n");
-	return (0);
+	return (0);
 }
